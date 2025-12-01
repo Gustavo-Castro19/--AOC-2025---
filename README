@@ -1,0 +1,10 @@
+this is me trying and commenting the solutions for AOC (2025)
+You can read and find this challenges at https://adventofcode.com/ 
+it's very fun i would recommend trying out by yourself 
+
+
+
+CHALLENGE 1 - DONE 
+Very nice, simple challenge that tests out some knowledge about modular 
+arithmetics, i wrote it in a very simple C script just run it with make.  
+Note that the makefile fucking sucks so always use -B to rebuild.
