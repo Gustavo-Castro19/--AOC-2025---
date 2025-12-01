@@ -1,7 +1,6 @@
 #include <string.h>
 #include "decode.h"
 #include <stdio.h>
-#define lineSize 500
 
 int main(void){
 
@@ -31,6 +30,7 @@ while(fgets(buffer,lineSize,fd)){
   if(pointer == 0) ++pass;  
 }
 
+fclose(fd);
 printf("%d\n", pass);  
 
 return 0; 

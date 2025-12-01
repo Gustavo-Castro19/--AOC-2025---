@@ -5,6 +5,18 @@ it's very fun i would recommend trying out by yourself
 
 
 CHALLENGE 1 - DONE 
+-- PART ONE --
 Very nice, simple challenge that tests out some knowledge about modular 
-arithmetics, i wrote it in a very simple C script just run it with make.  
-Note that the makefile fucking sucks so always use -B to rebuild.
+arithmetics. 
+contained in: solution.c decode.c -- header: decode.h  
+-- PART TWO -- 
+More tricky than i expected initialy, kinda missed some times because 
+of wrong count logic, i think that there is a more clean way to solve but
+it was kinda funny to model the math of the completing cycles. 
+contained in: solution_two.c decode_two.c -- header: decode.h  
+
+To compile use: make, run ./solution && ./solution2 to get the answers 
+you can clean the compiled binaries with make clean
+
+Note: My makefile fucking sucks (no intermediary steps as i'm very lazy) 
+so always use -B to rebuild.
