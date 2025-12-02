@@ -1,6 +1,7 @@
 # Prerequisites
 *.d
-
+./1day_password/input.txt 
+./2day_pattern/input.txt
 # Object files
 *.o
 *.ko
