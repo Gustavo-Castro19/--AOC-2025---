@@ -20,3 +20,13 @@ you can clean the compiled binaries with make clean
 
 Note: My makefile fucking sucks (no intermediary steps as i'm very lazy) 
 so always use -B to rebuild.
+
+CHALLENGE 2 - DONE 
+-- PART ONE -- 
+just verify the symmetry of a number and add to a sum in certain ranges, could solve with regex, but nah, not very interesting
+to be honest, solve this with c would be hell so i just used python
+-- PART TWO -- 
+This i just used regex and it was even more boring, https://regex101.com/ used this site to verify my regex expressions 
+-- not very much to talk about today. 
+
+All these are in sum_patterns.py just ran it with python . 
