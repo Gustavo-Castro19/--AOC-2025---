@@ -8,7 +8,7 @@ int main() {
     int pass = 0;
     char line[lineSize];
 
-    FILE *fd = fopen("sequence.txt", "r");
+    FILE *fd = fopen("input.txt", "r");
     if (fd == NULL) {
         fprintf(stderr, "Error opening file\n");
         return 1;

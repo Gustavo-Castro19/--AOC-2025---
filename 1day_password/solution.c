@@ -8,7 +8,7 @@ char buffer[lineSize];
 int pointer = 50; 
 int pass = 0; 
 
-FILE *fd = fopen("sequence.txt","r");
+FILE *fd = fopen("input.txt","r");
 if(fd == NULL){
 fprintf(stderr, "the archive couldn't open well, please verify the name");
 return -1;

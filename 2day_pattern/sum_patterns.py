@@ -28,7 +28,7 @@ def sum_repeats(ranges_line):
     return total
 
 def main()->void:
-    with open("ranges.txt", "r") as file: 
+    with open("input.txt", "r") as file: 
         patterns = file.readline();
         sum=sum_repeated_twice_ranges(patterns)
         print(f"the sum is equal {sum}")
