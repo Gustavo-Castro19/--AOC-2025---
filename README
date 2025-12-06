@@ -30,3 +30,13 @@ This i just used regex and it was even more boring, https://regex101.com/ used t
 -- not very much to talk about today. 
 
 All these are in sum_patterns.py just ran it with python . 
+
+CHALLENGE 3 - DONE
+-- PART ONE -- 
+solved it in a pretty brute force way, used as a way to remember go kinda cool problem that i could think in a way better way to go
+about
+-- PART TWO -- 
+not very tricky when you think in an way... but was very very fun to do i was busy last days so gonna catch up with the others 
+really liked go pretty ergonomical language even with i kinda screwed up the logic of the first part 
+go build solution && ./solution for PART 1 
+go build solution2 && ./solution2 for PART 2 
