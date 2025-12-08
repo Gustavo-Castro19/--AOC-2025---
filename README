@@ -40,3 +40,14 @@ not very tricky when you think in an way... but was very very fun to do i was bu
 really liked go pretty ergonomical language even with i kinda screwed up the logic of the first part 
 go build solution && ./solution for PART 1 
 go build solution2 && ./solution2 for PART 2 
+
+CHALLENGE 4 - DONE
+
+-- PART ONE --
+i just kinda reused the logic from a minesweeper implementation that i studied some time ago, most dificult thing was i am dumb
+and inverted the condition in the end (???) generating a bizzare count, and c++ syntax that i kinda forget, probably i wrote 
+very shitty cpp, very very crap idioms for the language, i don't found c++ all that difficult to use here in fact very cool
+language even with some caveats like the casting syntax 
+-- PART TWO -- 
+Perhaps the easiest second part to an AOC problem until here? i didn't more than idk 2 minutes to write it.  
+to run this solutions: make then ./solution_pt1 && ./solution_pt2 
